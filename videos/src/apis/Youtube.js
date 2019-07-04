@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const KEY = 'AIzaSyCbyeLxWNo0CM8cLGmudNHcNxE_ROrb56E';
 
-export default axios.create({
+const youtube = axios.create({
     baseURL: 'https://www.googleapis.com/youtube/v3',
     params: {
         part: 'snippet',
@@ -10,3 +10,5 @@ export default axios.create({
         key: KEY
     }
 });
+
+export { youtube, KEY };
