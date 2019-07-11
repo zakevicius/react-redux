@@ -1,0 +1,43 @@
+{
+  "streams": [
+    {
+      "title": "My first stream",
+      "description": "This is my first stream. you WON'T BELIEVE what have I done",
+      "id": 1
+    },
+    {
+      "title": "Stream 24/7",
+      "description": "I'm streaming my cat 24/7",
+      "id": 2
+    },
+    {
+      "title": "Stream with my id",
+      "description": "I made it",
+      "userId": "105880165817649487101",
+      "id": 3
+    },
+    {
+      "title": "Stream without id",
+      "description": "Anonymous stream",
+      "userId": null,
+      "id": 4
+    },
+    {
+      "title": "Unexpected behavior Edited",
+      "description": "Didn't expect that Edited",
+      "id": 5
+    },
+    {
+      "title": "One more stream EDITED WITH PATCH",
+      "description": "For programmatic Navigation",
+      "userId": "105880165817649487101",
+      "id": 6
+    },
+    {
+      "title": "Component reuse",
+      "description": "Code refactoring",
+      "userId": "105880165817649487101",
+      "id": 7
+    }
+  ]
+}
