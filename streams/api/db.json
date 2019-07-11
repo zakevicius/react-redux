@@ -11,12 +11,6 @@
       "id": 2
     },
     {
-      "title": "Stream with my id",
-      "description": "I made it",
-      "userId": "105880165817649487101",
-      "id": 3
-    },
-    {
       "title": "Stream without id",
       "description": "Anonymous stream",
       "userId": null,
@@ -26,12 +20,6 @@
       "title": "Unexpected behavior Edited",
       "description": "Didn't expect that Edited",
       "id": 5
-    },
-    {
-      "title": "One more stream EDITED WITH PATCH",
-      "description": "For programmatic Navigation",
-      "userId": "105880165817649487101",
-      "id": 6
     },
     {
       "title": "Component reuse",
